@@ -1,0 +1,8 @@
+com\account\service\restservice\RestServiceApplication.class
+com\account\service\restservice\controller\RESTController.class
+com\account\service\restservice\repos\AccountRepo.class
+com\account\service\restservice\service\AccountService.class
+com\account\service\restservice\entity\Account.class
+com\account\service\restservice\service\AccountOwnerService.class
+com\account\service\restservice\repos\AccountOwnerRepo.class
+com\account\service\restservice\entity\AccountOwner.class
